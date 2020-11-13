@@ -8,7 +8,7 @@
 <body>
 
 <form action= "Inicio.jsp" method="post">
-
+otra prueba mas
 &nbsp; <a id="Inicio" href="Inicio.jsp"> Inicio </a>  &nbsp; 
 <a id="AgregarSeguro" href="AgregarSeguro.jsp"> Agregar Seguro </a>  &nbsp; 
 <a id="Listar seguros" href="ListarSeguros.jsp">Listar Seguros</a>  
